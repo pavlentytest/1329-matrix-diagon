@@ -3,6 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
+        // добавить комментарий
         int[][] x = { {4,5,6}, {9,8,2}, {4,2,88}};
         printMatr(x);
         // элементы главной диагонали i=j
